@@ -1,0 +1,1 @@
+Learning how to manage permissions in shell
