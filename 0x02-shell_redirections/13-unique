@@ -1,2 +1,2 @@
 #!/bin/bash
-cat file | uniq
+cat list | uniq
