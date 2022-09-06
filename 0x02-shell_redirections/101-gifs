@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -name "*.gif" -type f | ls -1 | sort -f LC_ALL=C
+find . -name "*.gif" -ls -al | LC_ALL=C sort -f 
